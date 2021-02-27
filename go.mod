@@ -1,1 +1,1 @@
-module github.com/jkaplins1/env-go
+module github.com/jkaplinsky1/env-go
